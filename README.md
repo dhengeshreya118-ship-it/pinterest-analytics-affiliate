@@ -41,6 +41,17 @@ Python, pandas, matplotlib, Jupyter Notebook (`notebooks/analysis.ipynb`)
 - Find what was posted around 11 Oct and 29 Oct and repeat that style and timing.
 - Reduce dependence on a single pin by publishing more pins on the nails board consistently.
 
+## What I found when checking the links
+I opened the top 3 pins by impressions and confirmed each has a working destination link. Broken links are therefore not the cause of the low outbound clicks.
+
+Possible explanations, which this data cannot separate:
+- Nail-art pins are inspiration content, so people save and browse rather than shop
+- Pin images do not make the linked product obvious
+- Descriptions lack a clear call to action
+
+## Next experiment
+Publish a batch of pins with a visible product focus and a clear call to action in the description, then compare their outbound click-through rate against the current pins over the next 30 days.
+
 ## Limitations
 - Only 30 days of data from a small account, and one pin carries most of the results.
 - The export has no pin titles and no saves or clicks per pin, so analysis is at board level.
